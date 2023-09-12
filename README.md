@@ -1,4 +1,4 @@
-# IMPLEMENTATION-OF-FILTERSS
+# IMPLEMENTATION-OF-FILTERS
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
